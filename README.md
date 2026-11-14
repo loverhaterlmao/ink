@@ -39,6 +39,12 @@ Ink is made by Sick & Nexra Studios (S&NS). Its source code is closed. This repo
 to get help, and where to report problems.
 
 <!-- v2:b -->
+## In your language
+
+The front page is written in 18 languages: English, Spanish, Portuguese, French, German, Italian, Dutch, Polish, Turkish, Russian, Ukrainian, Arabic, Hindi, Indonesian, Vietnamese, Japanese, Korean and Chinese. Your browser's own language is chosen for you, each language
+has its own address (for example [wrote.ink/ja/](https://wrote.ink/ja/)), and the page carries a list to switch.
+The editor and the library are in English for now.
+
 ## The desktop app
 
 <img src="./assets/app.svg" alt="Ink for Windows on its start screen" width="100%">
